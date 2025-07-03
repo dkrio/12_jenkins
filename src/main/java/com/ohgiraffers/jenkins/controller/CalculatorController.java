@@ -19,7 +19,7 @@ public class CalculatorController {
 
     @GetMapping("/health")
     public String healthCheck() {
-        return "Arago CD setting a🤣";
+        return "Arago CD setting ab🤣";
     }
 //ㅎ2
     @GetMapping("/plus")
